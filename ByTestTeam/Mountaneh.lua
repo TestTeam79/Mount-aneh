@@ -1,4 +1,4 @@
--- Mount aneh (Final Safe Version)
+-- Mount aneh
 
 -- Load Rayfield UI
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
